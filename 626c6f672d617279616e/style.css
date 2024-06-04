@@ -30,6 +30,8 @@ p {
   font-size: max(3.3vw, 15px);
   color: rgba(255, 255, 255, 0.5);
 }
+
+/*
 #filter {
   
   position: fixed;
@@ -45,6 +47,8 @@ p {
   z-index: 2;
 
 }
+
+*/
 canvas {
   -moz-user-select: none;
   -webkit-user-select: none;
