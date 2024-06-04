@@ -1,8 +1,8 @@
-/*
+
 Rose 3D
 
 https://codepen.io/wakana-k/pen/LYgREZb
-*/
+
 
 import * as THREE from "three";
 import { OrbitControls } from "three/addons/controls/OrbitControls.js";
