@@ -83,6 +83,7 @@ p {
   white-space: nowrap;
   margin: 0;
   letter-spacing: 0.05em;
+  text-align: justify;
   animation: typing 0.5s steps(30, end);
 }
 .no-animation {
