@@ -7,18 +7,16 @@ var blog = "https://blog.aryanaryal.com.np";
 
 whois = [
   "<br>",
-  "Hey, I'm ARYAN!👋",
-  "I'm a Application security researcher, Bug Bounty hunter, hacker and webapp developer",
-  "who builds engaging open source tools like this one and research about web and mobile",
-  "app security technique.",
-  "I worked professionally security research, While doing all of that, I documentned my",
-  "research journey on Blog - trying to enlighten",
-  "the next generation of hacker and help them navigate the crazy world that is security", 
-  "technique development & computer science.", 
-  "Before I knew it, that online presence took on a life of its own, to the point where I knew", 
-  "I needed to make the jump from Appsec research to full time Bug Bounty hunter, and it's", 
-  "the best decision I ever made.", "'Decoded w/ Aryan Aryal.' What most people don't know",
-  " and will only know because they're reading this right now, is that I also run a creative.",
+  "Greetings, I am Aryan! 👋
+I am an Application Security Researcher, Bug Bounty Hunter, Hacker, and Web Application Developer. My work encompasses the creation of engaging open-source tools, alongside conducting meticulous research into web and mobile application security techniques.
+
+Throughout my professional career in security research, I have diligently documented my journey on my blog, with the aspiration of enlightening the next generation of hackers and assisting them in navigating the intricate realms of security technique development and computer science.
+
+As my online presence expanded, it became evident that transitioning from application security research to a full-time Bug Bounty Hunter was a necessary step – a decision I consider to be among the most rewarding of my life.
+
+Decoded w/ Aryan Aryal remains an ongoing project of mine, and something not widely known, unless one is reading this, is that I also have a creative inclination.
+
+",
   "<br>"
 ];
 
