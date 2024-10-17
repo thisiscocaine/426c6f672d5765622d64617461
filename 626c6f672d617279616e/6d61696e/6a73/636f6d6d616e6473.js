@@ -20,8 +20,6 @@ whois = [
 "to a full-time Bug Bounty Hunter was a necessary step – a decision I consider to be among the most rewarding of my life.",
 
 "Decoded w/ Aryan Aryal remains an ongoing project of mine, and something not widely known, unless one is reading this, is that I also have a creative inclination.",
-
-",
   "<br>"
 ];
 
