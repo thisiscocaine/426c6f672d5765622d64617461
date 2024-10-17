@@ -7,7 +7,7 @@ var blog = "https://blog.aryanaryal.com.np";
 
 whois = [
   "<br>",
-  "Greetings, I am Aryan!",
+  "<strong>Greetings, I am Aryan!</strong>",
   "I am an Application Security Researcher, Bug Bounty Hunter, Hacker, and Web Application Developer.", 
   "My work encompasses the creation of engaging open-source tools, alongside conducting meticulous", 
   "research into web and mobile application security techniques.",
@@ -20,8 +20,8 @@ whois = [
   "research to a full-time Bug Bounty Hunter was a necessary step – a decision I consider to be", 
   "among the most rewarding of my life.",
   "<br>",
-  "Decoded w/ Aryan Aryal remains an ongoing project of mine, and something not widely known,", 
-  "unless one is reading this, is that I also have a creative inclination.",
+  "<strong>Decoded w/ Aryan Aryal</strong> remains an ongoing project of mine, and something", 
+  "not widely known, unless one is reading this, is that I also have a creative inclination.",
   "<br>"
 ];
 
