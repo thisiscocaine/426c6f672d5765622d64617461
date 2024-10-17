@@ -9,11 +9,15 @@ whois = [
   "<br>",
   "Greetings, I am Aryan! 👋
 "I am an Application Security Researcher, Bug Bounty Hunter, Hacker, and Web Application Developer.",
-"My work encompasses the creation of engaging open-source tools, alongside conducting meticulous research into web and mobile application security techniques.",
+"My work encompasses the creation of engaging open-source tools, alongside conducting meticulous",
+"research into web and mobile application security techniques.",
 
-"Throughout my professional career in security research, I have diligently documented my journey on my blog, with the aspiration of enlightening the next generation of hackers and assisting them in navigating the intricate realms of security technique development and computer science.",
+"Throughout my professional career in security research, I have diligently documented my journey on",
+"my blog, with the aspiration of enlightening the next generation of hackers and assisting them in ",
+"Navigating the intricate realms of security technique development and computer science.",
 
-"As my online presence expanded, it became evident that transitioning from application security research to a full-time Bug Bounty Hunter was a necessary step – a decision I consider to be among the most rewarding of my life.",
+"As my online presence expanded, it became evident that transitioning from application security research",
+"to a full-time Bug Bounty Hunter was a necessary step – a decision I consider to be among the most rewarding of my life.",
 
 "Decoded w/ Aryan Aryal remains an ongoing project of mine, and something not widely known, unless one is reading this, is that I also have a creative inclination.",
 
