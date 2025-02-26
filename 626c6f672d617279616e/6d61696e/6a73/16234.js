@@ -14,7 +14,7 @@ async function copyPassword() {
         msgElement.style.padding = '10px';
         msgElement.style.borderRadius = '5px';
         msgElement.style.fontSize = '16px';
-        msgElement.innerText = "Oops, unable to copy password! Please generate a password first.";
+        msgElement.innerText = "Oops, unable to copy password.";
         
         // Append the error message and remove it after 3 seconds
         document.body.appendChild(msgElement);
@@ -46,7 +46,7 @@ async function copyPassword() {
         msgElement.style.padding = '10px';
         msgElement.style.borderRadius = '5px';
         msgElement.style.fontSize = '16px';
-        msgElement.innerText = "arisksec says Password copied to clipboard!";
+        msgElement.innerText = "Password copied.";
         
         // Append the success message and remove it after 3 seconds
         document.body.appendChild(msgElement);
