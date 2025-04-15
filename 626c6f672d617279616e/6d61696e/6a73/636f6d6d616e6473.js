@@ -4,6 +4,7 @@ var password = "Return";
 var github = "https://github.com/arisksec/";
 var email = 'mailto:me@arisksec.com';
 var blog = "https://blog.aryanaryal.com.np";
+var resume = "https://resume.aaryan.com.np/";
 
 whois = [
   "<br>",
@@ -37,6 +38,7 @@ social = [
   ' Twitter      <a href="' + twitter + '" target="_blank">ariksec' + '</a>',
   ' Github       <a href="' + github + '" target="_blank"> ariksec' + "</a>",
   ' Blog         <a href="' + blog + '" target="_blank">ariksec' + "</a>",
+  ' Resume       <a href="' + resume + '" target="_blank">ariksec' + "</a>",
   "<br>"
 ];
 
@@ -77,7 +79,7 @@ banner = [
   "Y5 JG.^Y:.Y~ 55 7G.    !7&~  5#^GY   GG~.  ^~GB  .!?B~!.    !~&?  ?&^PP   YB~.  .!5#.  &J      ",  
   "55 !Y.~G^.G7 ?J 7G.   ?: J&: P#:5G:  ^@!  :? .#P ^7 .G#    7^ !&~ J&:YB^  .&Y  .?..BB..&Y  ! ",   
   "BB    7#~:#Y    5#:  ..   .. ..  ..  ...  ..  .....   .    .   .. ..  ..  ...  ..  .........",    
-  "..    ~B^.G?     .                                                                   © 2024",                                                                               
+  "..    ~B^.G?     .                                                                   © 2025",                                                                               
   "    . ~5:.5!",                                                                                   
   "   P&:      .#B",                                                                                 
   "    .        .",   
