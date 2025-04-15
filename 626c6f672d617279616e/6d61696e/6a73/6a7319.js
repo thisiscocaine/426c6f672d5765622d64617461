@@ -12,7 +12,8 @@
 				  "sameAs": [
 				    "https://www.twitter.com/arisksec/",
 				    "https://blog.aryanaryal.com.np/",
-				    "https://github.com/arisksec/"
+				    "https://github.com/arisksec/",
+				    "https://resume.aaryan.com.np/"
 				  ]
 				}
 			</script>
