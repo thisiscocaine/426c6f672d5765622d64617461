@@ -1,21 +1,10 @@
 [
     {
-    "welcome-to-my-blog": {
-        "title": "Welcome to My Blog",
-        "content": "# Welcome to My Blog\n\nThis is the first post on my terminal-based blog system. Here's a quick overview:\n\n- **Markdown Support**: Write posts with headings, lists, and code blocks.\n- **Images**: Embed images directly in posts.\n\n## Sample Code\n```javascript\nconsole.log(\"Hello, Terminal!\");\n```\n\n## Image Example\n![Sample Image](https://cdn.aryanaryal.com.np/626c6f672d617279616e/70686f746f73/6c6f676f73/123852.png)"
+        "title": "Introduction to Web Security",
+        "url": "https://www.aryanaryal.com.np/blog.md"
     },
-    "second-post": {
-        "title": "Second Post",
-        "content": "# Second Post\n\nThis is another post to demonstrate the blog system.\n\n- Lists are supported.\n- Inline code like `this` works too.\n\n![Another Image](https://cdn.aryanaryal.com.np/626c6f672d617279616e/70686f746f73/6c6f676f73/black-logo.png)"
-    },
-    "ipadder": {
-        "title": "ipadder",
-        "url": "https://raw.githubusercontent.com/thisiscocaine/6c616e64696e6770616765/main/blog.md"
-    },
-    "test": {
-        "title": "test",
-        "url": "https://raw.githubusercontent.com/thisiscocaine/6c616e64696e6770616765/main/test.md"
+    {
+        "title": "Bug Bounty Tips",
+        "url": "bug-bounty-tips.md"
     }
-}
-
 ]
