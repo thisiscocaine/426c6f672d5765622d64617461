@@ -1,0 +1,10 @@
+[
+    {
+        "title": "Introduction to Web Security",
+        "filename": "web-security-intro.md"
+    },
+    {
+        "title": "Bug Bounty Tips",
+        "filename": "bug-bounty-tips.md"
+    }
+]
