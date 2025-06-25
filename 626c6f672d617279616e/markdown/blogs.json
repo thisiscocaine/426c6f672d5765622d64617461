@@ -1,24 +1,14 @@
 [
   {
-    "title": "Introduction to Web Security",
-    "description": "Basics of securing web apps.",
-    "url": "https://cdn.aryanaryal.com.np/626c6f672d617279616e/markdown/blog.md"
+    "title": "ip-types",
+    "description": "Types of IP Addresses: All You Need to Know",
+    "url": "https://cdn.aryanaryal.com.np/626c6f672d617279616e/markdown/ip-types.md"
   },
   {
     "title": "Bug Bounty Tips",
     "description": "Quick tips for bounty hunters.",
     "url": "https://cdn.aryanaryal.com.np/626c6f672d617279616e/markdown/test.md"
-  },
-
-{
-    "title": "Bug Bounty Tips",
-    "description": "bounty hunters.",
-    "url": "https://cdn.aryanaryal.com.np/626c6f672d617279616e/markdown/bug.md"
-  },
-
-{
-    "title": "Bug Bounty Tips",
-    "description": "Quick tips .",
-    "url": "https://cdn.aryanaryal.com.np/626c6f672d617279616e/markdown/tips.md"
   }
+
+
 ]
