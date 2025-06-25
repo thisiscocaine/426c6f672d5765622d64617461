@@ -111,13 +111,13 @@ The **RFC 1918** standard reserves the following private IP ranges:
 
 ---
 
-## ✅ Dedicated vs. Shared IP Addresses
+##  Dedicated vs. Shared IP Addresses
 
 Websites and online services use either **dedicated** or **shared IP addresses**, each with unique roles, benefits, and limitations.
 
 ---
 
-### 🔐 Dedicated IP Address
+###  Dedicated IP Address
 
 **Ownership:**  
 Exclusively assigned to a single user, server, or organization.  
@@ -133,7 +133,7 @@ More expensive, but offers greater flexibility and reliability.
 
 ---
 
-### 🌐 Shared IP Address
+###  Shared IP Address
 
 **Ownership:**  
 Used by multiple websites or services on the same server.  
