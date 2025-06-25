@@ -149,7 +149,7 @@ More affordable and ideal for small websites or testing environments.
 
 ---
 
-> 📌 **TL;DR**: Choose a **dedicated IP** for control, performance, and trust. Choose a **shared IP** for budget hosting and low-resource apps.
+>  **TL;DR**: Choose a **dedicated IP** for control, performance, and trust. Choose a **shared IP** for budget hosting and low-resource apps.
 
 
 ### Alternative: NordVPN Meshnet
